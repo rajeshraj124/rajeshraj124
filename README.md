@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as **Data Engineering Analyst at Ql2 Software India Private Limited.**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learing and MLops.**
+- 🌱 I’m proficient in  **Python,Sql,Tableaue, Machine Learning, Deep Learing and MLops, .**
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/rajeshraj124?tab=repositories)
 
