@@ -9,7 +9,7 @@
 
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Data Analyst at US4 Business Solutions Private Limited.**
+- 🔭 I’m currently working as **Data Engineering Analyst at Ql2 Software India Private Limited.**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learing and MLops.**
 
